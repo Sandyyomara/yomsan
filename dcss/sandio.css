@@ -1,0 +1,38 @@
+*{
+    background-color: gray;
+    box-sizing: border-box; 
+  }
+
+#box{
+    background-color: gray;
+    padding:20px;
+   
+}
+<style>
+/* all h2 elements */
+h2{
+color: gray;
+text-align: center;
+}
+/* all with class="highlight"*/
+.highlight {
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+background-color:cyan;
+opacity: .6;
+}
+/* element with id="mainPoint" */
+#mainPoint {
+font-size: 24px;
+font-weight: bold;
+background-color: yellow;
+opacity: .7;
+}
+/* all p AND h1 elements*/
+p, h1{
+color: black
+background-color:green;
+text-align: center;
+</style>
+}
